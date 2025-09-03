@@ -1,1 +1,1 @@
-# CSV-LinearModel
+# linear-regression-from-scratch
