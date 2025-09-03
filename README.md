@@ -1,5 +1,15 @@
 # Linear Regression From Scratch  
 
+
+---
+## Execution 
+
+
+```python
+python app.py
+```
+
+
 ---
 Implémentation simple d’une régression linéaire en Python **sans scikit-learn**, en utilisant l’équation normale.  
 Le projet inclut :  
