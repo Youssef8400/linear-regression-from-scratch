@@ -7,7 +7,9 @@ data=pd.read_csv("BostonHousing.csv")
 
 
 print(data.columns)
-
+print(data.isnull().sum())
+print(data.shape)
+print(data.corr())
 
 X = data.loc[:, ["rm" , "ptratio" , "lstat"]]
 Y = data.loc[:, "medv"]
